@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/AdilRajaCse/Data-Structure-and-algorithms/tree/master/0782-jewels-and-stones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AdilRajaCse/Data-Structure-and-algorithms/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Counting
 |  |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AdilRajaCse/Data-Structure-and-algorithms/tree/master/0204-count-primes) |
+## String
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/AdilRajaCse/Data-Structure-and-algorithms/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->
